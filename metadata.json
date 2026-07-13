@@ -1,0 +1,6 @@
+{
+  "name": "TV AppLock",
+  "description": "Secure Google TV AppLock utilizing an Accessibility Service and TV-optimized PIN lock screens to secure apps like YouTube and YouTube Kids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
