@@ -6,7 +6,7 @@ import android.content.SharedPreferences
 object AppLockManager {
     private const val PREFS_NAME = "applock_prefs"
     private const val KEY_PIN = "lock_pin"
-    private const val DEFAULT_PIN = "1234"
+    private const val DEFAULT_PIN = "2650"
 
     // Set of default locked apps
     private val DEFAULT_LOCKED_APPS = setOf(
