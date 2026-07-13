@@ -11,10 +11,10 @@ object AppLockManager {
     // Set of default locked apps
     private val DEFAULT_LOCKED_APPS = setOf(
         "com.google.android.youtube.tv",
-        "com.google.android.youtube.kids"
-        "com.google.android.youtube.tvmusic"
-        "com.lagradost.cloudstream3"
-        "com.esaba.downloader"
+        "com.google.android.youtube.kids",
+        "com.google.android.youtube.tvmusic",
+        "com.lagradost.cloudstream3",
+        "com.esaba.downloader",
         "com.android.vending"
     )
 
