@@ -1,13 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TV AppLock</string>
-    <string name="accessibility_service_description">YouTube ve diğer seçili uygulamaları PIN koduyla korumak için hangi uygulamanın ön planda olduğunu algılar.</string>
-    <string name="perm_accessibility_title">Erişilebilirlik Servisi Gerekli</string>
-    <string name="perm_accessibility_desc">TV AppLock\'un YouTube açıldığında algılayabilmesi için Erişilebilirlik Servisi iznini etkinleştirmeniz gerekir.</string>
-    <string name="perm_overlay_title">Sistem Penceresi Üzerinde Gösterim Gerekli</string>
-    <string name="perm_overlay_desc">Kilit ekranının YouTube üzerinde kararlı bir şekilde gösterilmesi için pencere üzerinde gösterim izni gereklidir.</string>
-    <string name="btn_grant_permission">İzin Ver</string>
-    <string name="status_active">Aktif</string>
-    <string name="status_inactive">Devre Dışı</string>
-    <string name="lock_screen_title">Uygulama Kilitli</string>
-    <string name="lock_screen_prompt">Lütfen devam etmek için 4 haneli PIN kodunu girin.</string>
+    <string name="accessibility_service_description">Detects foreground app changes to protect YouTube and other selected applications with a PIN code.</string>
+    <string name="perm_accessibility_title">Accessibility Service Required</string>
+    <string name="perm_accessibility_desc">You need to enable Accessibility Service so TV AppLock can detect when YouTube opens.</string>
+    <string name="perm_overlay_title">Display Over Other Apps Required</string>
+    <string name="perm_overlay_desc">Display over other apps permission is required to reliably show the lock screen overlay on top of YouTube.</string>
+    <string name="btn_grant_permission">Grant Permission</string>
+    <string name="status_active">Active</string>
+    <string name="status_inactive">Disabled</string>
+    <string name="lock_screen_title">App Locked</string>
+    <string name="lock_screen_prompt">Please enter your 4-digit PIN code to continue.</string>
 </resources>
