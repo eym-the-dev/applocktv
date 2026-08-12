@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV AppLock</string>
+    <string name="accessibility_service_description">Erkennt App-Wechsel im Vordergrund, um YouTube und andere ausgewählte Anwendungen mit einer PIN zu schützen.</string>
+    <string name="perm_accessibility_title">Eingabehilfe-Dienst erforderlich</string>
+    <string name="perm_accessibility_desc">Sie müssen den Eingabehilfe-Dienst aktivieren, damit TV AppLock erkennen kann, wenn YouTube geöffnet wird.</string>
+    <string name="perm_overlay_title">Über anderen Apps anzeigen erforderlich</string>
+    <string name="perm_overlay_desc">Die Berechtigung zum Anzeigen über anderen Apps ist erforderlich, um den Sperrbildschirm zuverlässig anzuzeigen.</string>
+    <string name="btn_grant_permission">Berechtigung erteilen</string>
+    <string name="status_active">Aktiv</string>
+    <string name="status_inactive">Deaktiviert</string>
+    <string name="lock_screen_title">App gesperrt</string>
+    <string name="lock_screen_prompt">Bitte geben Sie Ihren 4-stelligen PIN-Code ein, um fortzufahren.</string>
+</resources>
