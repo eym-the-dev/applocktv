@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TV AppLock</string>
+    <string name="accessibility_service_description">YouTube ve diğer seçili uygulamaları PIN koduyla korumak için hangi uygulamanın ön planda olduğunu algılar.</string>
+    <string name="perm_accessibility_title">Erişilebilirlik Servisi Gerekli</string>
+    <string name="perm_accessibility_desc">TV AppLock\'un YouTube açıldığında algılayabilmesi için Erişilebilirlik Servisi iznini etkinleştirmeniz gerekir.</string>
+    <string name="perm_overlay_title">Sistem Penceresi Üzerinde Gösterim Gerekli</string>
+    <string name="perm_overlay_desc">Kilit ekranının YouTube üzerinde kararlı bir şekilde gösterilmesi için pencere üzerinde gösterim izni gereklidir.</string>
+    <string name="btn_grant_permission">İzin Ver</string>
+    <string name="status_active">Aktif</string>
+    <string name="status_inactive">Devre Dışı</string>
+    <string name="lock_screen_title">Uygulama Kilitli</string>
+    <string name="lock_screen_prompt">Lütfen devam etmek için 4 haneli PIN kodunu girin.</string>
+</resources>
